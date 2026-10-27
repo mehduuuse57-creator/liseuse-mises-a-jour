@@ -1,8 +1,8 @@
 {
-  "versionCode": 2005,
-  "versionName": "1.0.4",
-  "apk": "https://github.com/mehduuuse57-creator/liseuse-mises-a-jour/releases/download/v1.0.4/Liseuse-v1.0.4.apk",
-  "sha256": "692fc5aff676d641e26a6ace618edb4d6937b7f715b8828466a8a4e79f2dc0ab",
-  "taille": 48133533,
-  "notes": "Page collée au doigt, 15 classiques français, rayons Français / English, bouton Ajouter un livre"
+  "versionCode": 2006,
+  "versionName": "1.0.5",
+  "apk": "https://github.com/mehduuuse57-creator/liseuse-mises-a-jour/releases/download/v1.0.5/Liseuse-v1.0.5.apk",
+  "sha256": "2716ac09bc7126ef3cff0557bd961484bde4a0c160f713d022344e93580a4c9a",
+  "taille": 48682231,
+  "notes": "Double texte : Mot sous mot (Hugo, Christmas Carol), Ligne sous ligne, Côte à côte ; sélecteur dans le livre"
 }
