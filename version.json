@@ -1,8 +1,8 @@
 {
-  "versionCode": 2004,
-  "versionName": "1.0.3",
-  "apk": "https://github.com/mehduuuse57-creator/liseuse-mises-a-jour/releases/download/v1.0.3/Liseuse-v1.0.3.apk",
-  "sha256": "a9d7268f526f2a986becef1bb0e6dc918259a391ad60af7877af38934b01b38a",
-  "taille": 43973572,
-  "notes": "Version de contrôle : vérifie que la mise à jour depuis l'appli fonctionne"
+  "versionCode": 2005,
+  "versionName": "1.0.4",
+  "apk": "https://github.com/mehduuuse57-creator/liseuse-mises-a-jour/releases/download/v1.0.4/Liseuse-v1.0.4.apk",
+  "sha256": "692fc5aff676d641e26a6ace618edb4d6937b7f715b8828466a8a4e79f2dc0ab",
+  "taille": 48133533,
+  "notes": "Page collée au doigt, 15 classiques français, rayons Français / English, bouton Ajouter un livre"
 }
