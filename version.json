@@ -1,8 +1,8 @@
 {
-  "versionCode": 2007,
-  "versionName": "1.0.6",
-  "apk": "https://github.com/mehduuuse57-creator/liseuse-mises-a-jour/releases/download/v1.0.6/Liseuse-v1.0.6.apk",
-  "sha256": "e0c778c8c2ec59c6744ff84dd51b21bd297adb1270b168eb77a602327b7e5913",
-  "taille": 69528796,
-  "notes": "Un mot touché passe avant le bord de page. Toucher un mot ne tourne plus la page. Prise par le coin plus douce. Bouton son dans le livre. 106 classiques (Tout voir). Mot sous mot vérifié au dictionnaire."
+  "versionCode": 2008,
+  "versionName": "1.0.7",
+  "apk": "https://github.com/mehduuuse57-creator/liseuse-mises-a-jour/releases/download/v1.0.7/Liseuse-v1.0.7.apk",
+  "sha256": "6200ef6f7c363dd3cdf1dfd095b4f840b13225bbc2747e56e970d9e344f03a63",
+  "taille": 82700438,
+  "notes": "Mot sous mot pour 26 livres (Hugo, Dumas, Zola, Austen, Dickens, Wilde…), chaque traduction vérifiée au dictionnaire."
 }
